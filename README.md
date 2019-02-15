@@ -3,9 +3,9 @@
 By UWABIKIRAMARIYA Roselyne
 ## Description
 
-The Password-Locker website helps user to manage their password and even generate new password for them.
+The Password Locker application that will help us manage our passwords and even generate new passwords for users.
 
-This project was generated with Python 3.6 
+**This project was generated with Python 3.6** 
 
 BDD
 A user enter his user name and password which helps him/her to go to different options in his account, like to create an account to delete credentials or to access them and to change the password indeed.
