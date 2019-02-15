@@ -7,7 +7,8 @@ The Password Locker application that will help us manage our passwords and even 
 
 **This project was generated with Python 3.6** 
 
-BDD
+## BDD
+
 A user enter his user name and password which helps him/her to go to different options in his account, like to create an account to delete credentials or to access them and to change the password indeed.
 
 ## Code
