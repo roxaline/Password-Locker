@@ -26,9 +26,6 @@ Email:mariadelarosita078@gmail.com
 
 Phone Number: (+250)786421009
 
-## Link
-This is my website link 
-
 ## License
 This is my own work.
 
