@@ -11,7 +11,7 @@ class TestUser(unittest.TestCase):
         '''
         Set up method to run before each test cases.
         '''
-        self.new_user = User("roxaline","uwabikiramariya8") # create contact object
+        self.new_user = User("roxaline","uwabikiramariya8") 
 
     def test_init(self):
         '''

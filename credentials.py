@@ -26,7 +26,7 @@ class Credential:
         Credential.credential_list.remove(self)
 
     @classmethod
-    def find_by_acc_name(cls,account):
+    def find_by_account(cls,account):
         '''
         Method that takes in a number and returns a credential that matches that account name.
         Args:

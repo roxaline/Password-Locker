@@ -32,10 +32,8 @@ class User:
     def user_exists(cls,characters):
         """
         user_exists method that checks is a user exists from the user list
-
         args:
             characters:password to search if the user exists
-
         returns:
             boolean:true or false depending on the condition
         """

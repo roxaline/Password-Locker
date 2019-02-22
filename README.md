@@ -11,6 +11,14 @@ The Password Locker application that will help us manage our passwords and even 
 
 A user enter his user name and password which helps him/her to go to different options in his account, like to create an account to delete credentials or to access them and to change the password indeed.
 
+## Technologies Used
+
+Python v3.6
+
+Boostrap
+
+Flask
+
 ## Code
 
 To run a python file
