@@ -29,6 +29,10 @@ Output
 
 `print("enter the output that you whant to be shown")`
 
+if you want to access my codes on github in a terminal
+
+`git clone  https://github.com/roxaline/Password-Locker.git`
+
 
 ## Contacts
 Email:mariadelarosita078@gmail.com
